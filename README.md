@@ -23,3 +23,4 @@ and to start the app [npm start]
 
 -  PWA Activities 
 -  slack
+-  Heroku Deployment Guide on The Full-Stack Blog
